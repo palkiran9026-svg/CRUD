@@ -1,0 +1,25 @@
+body{
+ background-color:hwb(201 86% 6%);  
+/* background-color: rgba(255,255,255,0.5); */
+/* background-image: url("flower.jpg"); */
+
+/* background-size: cover;                  Make image cover full screen */
+/* background-position: center;             Center the image */
+/* background-repeat: no-repeat;            Prevent tiling */
+  
+  
+}
+h1{
+    color:red;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+.custom-header {
+background-color: #AEE1F9; 
+color: #333;              
+}
+  
+  
